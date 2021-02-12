@@ -1,2 +1,2 @@
 # scripts
-collection of usual scripts
+collection of useful scripts
